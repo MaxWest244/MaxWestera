@@ -4,8 +4,11 @@ I'm a software development student from The Netherlands.
 
 ## Languages & frameworks
 Java
+
 JavaScript, HTML, CSS
+
 Spring Boot
+
 Vue.JS
 
 ## Projects
