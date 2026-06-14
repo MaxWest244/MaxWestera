@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi I'm Max 👋
 
-<!--
-**MaxWestera/MaxWestera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software development student from The Netherlands.
 
-Here are some ideas to get you started:
+## Languages & frameworks
+Java
+JavaScript, HTML, CSS
+Spring Boot
+Vue.JS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+ZorgApp - my very first school project & introduction to programming built in Java. It's a command line application built for the healthcare industry
+CanvasClues - my most recent team project. A web based game built in Java Spring Boot & Vue.JS. Based on Codenames, Canvas Clues is a game made for museums to showcase art online collections in an engaging way.
+
+## Currently
+Looking for an internship
+Learning C#
